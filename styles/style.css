@@ -66,6 +66,10 @@ body {
   align-items: center;
   justify-content: center;
   padding: 14px;
+  font-family: "Montserrat", sans-serif;
+  font-size: 14px;
+  color: hsl(0deg, 0%, 100%);
+  margin: 0;
 }
 .container .container2 button:hover {
   cursor: pointer;
@@ -73,12 +77,6 @@ body {
 .container .container2 button img {
   width: 16px;
   margin-right: 10px;
-}
-.container .container2 button p {
-  font-family: "Montserrat", sans-serif;
-  font-size: 14px;
-  color: hsl(0deg, 0%, 100%);
-  margin: 0;
 }
 
 .attribution {

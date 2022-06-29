@@ -77,6 +77,10 @@ body{
             align-items: center;
             justify-content: center;
             padding: 14px;
+            font-family: 'Montserrat', sans-serif;
+            font-size: 14px;
+            color: $neutral3;  
+            margin: 0; 
             &:hover{
                 cursor: pointer;
             }
@@ -84,12 +88,6 @@ body{
                 width: 16px;
                 margin-right: 10px;
             }
-            p{
-                font-family: 'Montserrat', sans-serif;
-                font-size: 14px;
-                color: $neutral3;  
-                margin: 0;    
-            } 
         }
     }
 }
